@@ -22,7 +22,7 @@ mongoose.connect(
   );
 
 app.use(require("./routes/api.js"));
-app.use(require("./routes/html.js"));
+app.use(require("./routes/homeRoutes.js"));
 
 app.listen(PORT, () => {
     console.log('***** Now listening at http://localhost:' + PORT + ' *****');
