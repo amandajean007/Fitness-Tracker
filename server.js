@@ -10,7 +10,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static("public"));
 app.use(logger("dev"));
-console.log(process.env.MONGODB_URI);
+
 mongoose.connect(
     process.env.MONGODB_URI || 'mongodb://localhost/workout',
     {

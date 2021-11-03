@@ -1,0 +1,289 @@
+[{
+  "_id": {
+    "$oid": "617ea5d25fa0462e0444aadf"
+  },
+  "day": {
+    "$date": "2021-10-22T14:18:58.650Z"
+  },
+  "exercises": [
+    {
+      "type": "resistance",
+      "name": "Bicep Curl",
+      "duration": 20,
+      "weight": 100,
+      "reps": 10,
+      "sets": 4
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "617ea5d25fa0462e0444aae0"
+  },
+  "day": {
+    "$date": "2021-10-23T14:18:58.651Z"
+  },
+  "exercises": [
+    {
+      "type": "resistance",
+      "name": "Lateral Pull",
+      "duration": 20,
+      "weight": 300,
+      "reps": 10,
+      "sets": 4
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "617ea5d25fa0462e0444aae1"
+  },
+  "day": {
+    "$date": "2021-10-24T14:18:58.651Z"
+  },
+  "exercises": [
+    {
+      "type": "resistance",
+      "name": "Push Press",
+      "duration": 25,
+      "weight": 185,
+      "reps": 8,
+      "sets": 4
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "617ea5d25fa0462e0444aae2"
+  },
+  "day": {
+    "$date": "2021-10-25T14:18:58.651Z"
+  },
+  "exercises": [
+    {
+      "type": "cardio",
+      "name": "Running",
+      "duration": 25,
+      "distance": 4
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "617ea5d25fa0462e0444aae3"
+  },
+  "day": {
+    "$date": "2021-10-26T14:18:58.651Z"
+  },
+  "exercises": [
+    {
+      "type": "resistance",
+      "name": "Bench Press",
+      "duration": 20,
+      "weight": 285,
+      "reps": 10,
+      "sets": 4
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "617ea5d25fa0462e0444aae4"
+  },
+  "day": {
+    "$date": "2021-10-27T14:18:58.651Z"
+  },
+  "exercises": [
+    {
+      "type": "resistance",
+      "name": "Bench Press",
+      "duration": 20,
+      "weight": 300,
+      "reps": 10,
+      "sets": 4
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "617ea5d25fa0462e0444aae5"
+  },
+  "day": {
+    "$date": "2021-10-28T14:18:58.651Z"
+  },
+  "exercises": [
+    {
+      "type": "resistance",
+      "name": "Quad Press",
+      "duration": 30,
+      "weight": 300,
+      "reps": 10,
+      "sets": 4
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "617ea5d25fa0462e0444aae6"
+  },
+  "day": {
+    "$date": "2021-10-29T14:18:58.651Z"
+  },
+  "exercises": [
+    {
+      "type": "resistance",
+      "name": "Bench Press",
+      "duration": 20,
+      "weight": 300,
+      "reps": 10,
+      "sets": 4
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "617ea5d25fa0462e0444aae7"
+  },
+  "day": {
+    "$date": "2021-10-30T14:18:58.651Z"
+  },
+  "exercises": [
+    {
+      "type": "resistance",
+      "name": "Military Press",
+      "duration": 20,
+      "weight": 300,
+      "reps": 10,
+      "sets": 4
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "617ea5dcbe03bd0944629614"
+  },
+  "totalDuration": 0,
+  "day": {
+    "$date": "2021-10-31T14:19:08.977Z"
+  },
+  "exercises": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617ea605cc01ca46bc599b15"
+  },
+  "totalDuration": 10,
+  "day": {
+    "$date": "2021-10-31T14:19:49.233Z"
+  },
+  "exercises": [
+    {
+      "weight": 0,
+      "reps": 0,
+      "sets": 0,
+      "distance": 5,
+      "_id": {
+        "$oid": "617ea60ccc01ca46bc599b17"
+      },
+      "type": "cardio",
+      "name": "Running",
+      "duration": 10
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617eacd885d55680c404a029"
+  },
+  "totalDuration": 10,
+  "day": {
+    "$date": "2021-10-31T14:48:56.736Z"
+  },
+  "exercises": [
+    {
+      "weight": 0,
+      "reps": 0,
+      "sets": 0,
+      "distance": 5,
+      "_id": {
+        "$oid": "617eacde85d55680c404a02b"
+      },
+      "type": "cardio",
+      "name": "Running",
+      "duration": 10
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617eade005ff06331c05a7f2"
+  },
+  "totalDuration": 0,
+  "day": {
+    "$date": "2021-10-31T14:53:20.214Z"
+  },
+  "exercises": [
+    {
+      "weight": 100,
+      "reps": 10,
+      "sets": 4,
+      "distance": 0,
+      "_id": {
+        "$oid": "617eadec05ff06331c05a7f4"
+      },
+      "type": "resistance",
+      "name": "Lift",
+      "duration": 10
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617eaf8555672677f0dbdc87"
+  },
+  "totalDuration": 20,
+  "day": {
+    "$date": "2021-10-31T15:00:21.925Z"
+  },
+  "exercises": [
+    {
+      "weight": 0,
+      "reps": 0,
+      "sets": 0,
+      "distance": 5,
+      "_id": {
+        "$oid": "617eaf8b55672677f0dbdc89"
+      },
+      "type": "cardio",
+      "name": "Running",
+      "duration": 10
+    },
+    {
+      "weight": 200,
+      "reps": 10,
+      "sets": 4,
+      "distance": 0,
+      "_id": {
+        "$oid": "617eb05355672677f0dbdc8f"
+      },
+      "type": "resistance",
+      "name": "Bench Press",
+      "duration": 10
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617eb37d6c74c48680ae4094"
+  },
+  "totalDuration": 10,
+  "day": {
+    "$date": "2021-10-31T15:17:17.433Z"
+  },
+  "exercises": [
+    {
+      "weight": 200,
+      "reps": 10,
+      "sets": 4,
+      "distance": 0,
+      "_id": {
+        "$oid": "617eb3886c74c48680ae4096"
+      },
+      "type": "resistance",
+      "name": "Bench Press",
+      "duration": 10
+    }
+  ],
+  "__v": 0
+}]
